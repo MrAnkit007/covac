@@ -1,1 +1,1 @@
-web: python server.py
+worker: covid-vaccine-slot-booking.py
