@@ -1,1 +1,1 @@
-worker: covid-vaccine-slot-booking.py
+worker: python covid-vaccine-slot-booking.py
